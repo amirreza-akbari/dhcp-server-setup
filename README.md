@@ -31,7 +31,7 @@ This repository provides a simple, beautiful, and automated way to install and c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/dhcp-server-setup.git
+git clone https://github.com/amirreza-akbari/dhcp-server-setup.git
 cd dhcp-server-setup
 ```
 
